@@ -34,6 +34,7 @@
 
 ### 🔎 사용한 API
 1. [FullCalendar API](https://fullcalendar.io/)
+2. Google Calendar API
 
 ---
 
